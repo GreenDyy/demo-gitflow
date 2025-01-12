@@ -11,7 +11,7 @@ function Home() {
         <Login/>
         <Hello/>
         <p>Release đã viết cài này</p>
-        <p>oh shit đây là bug</p>
+        <p>hot fix đã clear bug xog</p>
     </div>
   )
 }
