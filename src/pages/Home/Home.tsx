@@ -7,8 +7,10 @@ function Home() {
   return (
     <div className='home'>
         <p>Đây là dev làm</p>
+        
         <Login/>
         <Hello/>
+        <p>Release đã viết cài này</p>
     </div>
   )
 }
