@@ -10,7 +10,7 @@ function Home() {
         
         <Login/>
         <Hello/>
-        <p>Release đã viết cài này nè</p>
+        <p>Release đã viết cài này</p>
     </div>
   )
 }
