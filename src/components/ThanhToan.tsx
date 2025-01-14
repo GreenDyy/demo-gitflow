@@ -7,6 +7,7 @@ function ThanhToan() {
             </h1>
             <button onClick={() => alert('Hihi')}>Login</button>
         </div>
+        //hihi hehe
     )
 }
 
