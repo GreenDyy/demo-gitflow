@@ -12,6 +12,7 @@ function Home() {
         <Login/>
         <Hello/>
         <ThanhToan/>
+        <p>release đã thêm</p>
     </div>
   )
 }
